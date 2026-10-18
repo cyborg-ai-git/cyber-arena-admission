@@ -3,12 +3,13 @@
   "client_url": "https://cyborg-ai-git.github.io/cyber-arena-quiz/",
   "leaderboard_url": "https://cyborg-ai-git.github.io/cyber-arena-leaderboard/",
   "sha256": {
-    "index.html": "e3dfea08292c1a886c8e313e504891c82c1e814789da9d7dba8012fa2f76ce40",
+    "index.html": "a9bc89e22462fc25fa4b3464e9762951df3cc228a78b76a07a40f99341f0941e",
+    "app_quiz_admission_display-317c074e54dbc3e4_bg.wasm": "d655603d460e058699e6538d04b87ac19656c3b804c21aeddc9d0e13e091ea20",
+    "app_quiz_admission_display-317c074e54dbc3e4.js": "68275d420fd10146cf0d6fa6b91ebc1b135f9f8b2c7a93941768ff2cc9a8a3b7",
     "8b5defaf1965cae7-initializer.mjs": "fff60ec07d24995b6bfe7b2a85e80ce99f5a9b529938c0dd5de333219a04117e",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "app_quiz_admission_display-82d6fa4b8997ad97.js": "0602a5ef45f6360edfee09dd9522086b6c2364b54772cba0f1a32373b234a3f7",
-    "app_quiz_admission_display-82d6fa4b8997ad97_bg.wasm": "357d954c546f725f56e6d8ed3866bb778105c2b9894697a7d38b603705b22384",
-    "logo-a7d16afd66afaed1.png": "542e46f2a7490e830cc87594ae6434f846e66f89a32fe947fe375056c22c187b"
+    "logo-a7d16afd66afaed1.png": "542e46f2a7490e830cc87594ae6434f846e66f89a32fe947fe375056c22c187b",
+    "snippets/app_quiz_client-6b588715fdbe26cf/inline0.js": "ca7bd41f5f9123711b318105b0164d83f79522f2921c6c4de3f90c031464131b"
   },
   "server_peer_id": "289b81b5594bc4ea94580234596efb43a8873eadfda00045e6a8459df42c5923"
 }
